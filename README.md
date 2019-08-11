@@ -25,7 +25,7 @@ Create aws-keys.yml:
 ```
 ansible-vault create config/aws-keys.yml
 ```
-Add the following to the aws-keys.yml file, substituting in your AWS Keys where required. 
+Add the following to the **aws-keys.yml** file, substituting in your AWS Keys where required. 
 ```
 aws_access_key: your-access-key-here
 aws_secret_key: your-secret-key-here
