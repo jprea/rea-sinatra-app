@@ -1,0 +1,7 @@
+region: us-east-2
+instance_type: t2.micro
+# Ubuntu Server 18.04 LTS
+image: ami-05c1fa8df71875112
+keypair: freetier
+count: 1
+security_group: webservers_sg
