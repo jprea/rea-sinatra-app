@@ -21,7 +21,7 @@ git clone https://github.com/jprea/rea-sinatra-app.git
 cd rea-sinatra-app
 ```
 
-Create aws-keys.yml:
+Create **aws-keys.yml**:
 ```
 ansible-vault create config/aws-keys.yml
 ```
