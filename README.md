@@ -12,7 +12,7 @@ Code is separated into three scripts, so that provisioning, configuration, and d
 
 You will also need to install the following so that Ansible can talk with AWS:
 ```
-# pip install boto boto3
+pip install boto boto3
 ```
 
 ## Deployment:
