@@ -32,7 +32,7 @@ aws_secret_key: your-secret-key-here
 ```
 Save your Vault Password, as you will be asked for it later. 
 
-Edit **config/specs.yml** and update *keypair* to your SSH Keypair. You may also need to update *region* if you are not able to deploy to us-east-2.
+Edit **config/specs.yml** and update *keypair* to your SSH Keypair. You may also need to update *region* if you are not able to provision to us-east-2.
 
 You should now be able to provision a new server as follows: 
 ```
